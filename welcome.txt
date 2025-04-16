@@ -1,1 +1,4 @@
 welcome to version control
+
+git is for tracking changes
+ git is dvcs
